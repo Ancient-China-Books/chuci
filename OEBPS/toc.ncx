@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-5518-8022-380af14d8d55"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.8.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>楚辭</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>卷一・離騷</text>
+      </navLabel>
+      <content src="Text/01.htm"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>卷二・九歌</text>
+      </navLabel>
+      <content src="Text/02.htm"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>卷三・天問</text>
+      </navLabel>
+      <content src="Text/03.htm"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>卷四・九章</text>
+      </navLabel>
+      <content src="Text/04.htm"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>卷五・遠游</text>
+      </navLabel>
+      <content src="Text/05.htm"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>卷六・卜居</text>
+      </navLabel>
+      <content src="Text/06.htm"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>卷七・漁父</text>
+      </navLabel>
+      <content src="Text/07.htm"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>卷八・九辯</text>
+      </navLabel>
+      <content src="Text/08.htm"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>卷九・招魂</text>
+      </navLabel>
+      <content src="Text/09.htm"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>卷十・大招</text>
+      </navLabel>
+      <content src="Text/10.htm"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>卷一一・惜誓</text>
+      </navLabel>
+      <content src="Text/11.htm"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>卷一二・招隱士</text>
+      </navLabel>
+      <content src="Text/12.htm"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>卷一三・七諫</text>
+      </navLabel>
+      <content src="Text/13.htm"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>卷一四・哀時命</text>
+      </navLabel>
+      <content src="Text/14.htm"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>卷一五・九懷</text>
+      </navLabel>
+      <content src="Text/15.htm"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>卷一六・九歎</text>
+      </navLabel>
+      <content src="Text/16.htm"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>卷一七・九思</text>
+      </navLabel>
+      <content src="Text/17.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>
